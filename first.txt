@@ -9,4 +9,6 @@ git status
 git diff
 
 marge test
+
 コンフリクトテスト（marge/test)
+コンフリクトテスト（main）
